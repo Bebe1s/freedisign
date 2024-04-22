@@ -1,8 +1,9 @@
 This is a completely free open source digital signage solution. This project contains multipule methods so please be sure to read about all of them a chose the best one for you
 
-Mouses SSH to connect to a pi download media from a github repo then play it using built in VLC player.
-
 Currently the project supports .mp4 files but websites are in the prosses of being supported.
+
+_**METHOD 1**_Mouses SSH to connect to a pi download media from a github repo then play it using built in VLC player.
+
 
 **DIRECTIONS:**
 
